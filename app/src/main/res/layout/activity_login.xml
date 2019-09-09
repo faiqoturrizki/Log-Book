@@ -19,7 +19,7 @@
             android:id="@+id/gmbr"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/icons"
+            android:src="@drawable/book"
             android:layout_marginTop="50dp"/>
 
         <TextView
@@ -29,7 +29,7 @@
             android:text="Log Book"
             android:textStyle="bold"
             android:textSize="60dp"
-            android:textColor="#755B81"
+            android:textColor="#49945C"
             android:layout_marginTop="10dp"
             android:fontFamily="casual"/>
 

@@ -15,6 +15,6 @@
         android:layout_alignParentRight="true"
         android:layout_margin="10dp"
         app:borderWidth="0dp"
-        android:src="@drawable/plus" />
+        android:src="@drawable/add" />
 
 </RelativeLayout>

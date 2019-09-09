@@ -12,7 +12,7 @@
         android:id="@+id/ivsplash"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/splash"/>
+        android:src="@drawable/splash1"/>
 
     <TextView
         android:id="@+id/tvsplash"
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:text="Log Book"
         android:textSize="30sp"
-        android:textColor="#755B81"
+        android:textColor="#357180"
         android:layout_marginTop="20dp"
         android:fontFamily="casual"
         android:textStyle="bold"/>
